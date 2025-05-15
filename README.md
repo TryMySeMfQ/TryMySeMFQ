@@ -1,21 +1,73 @@
-<h1 align="center">Hi 👋, I'm Julia Tito</h1>
-<h3 align="center">I am a student at the State University of Bahia - Uneb Campus II, my course and information system</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ0d3B2ZG1zZ2NqY2VzZzB6eW5tY3FqY2RjbjB6dGJmYzZ6eGZ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <br>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="400">
+</div>
 
-- 🔭 I’m currently working on **Uneb - System**
+# 👋 Olá, eu sou Julia Tito!  
 
-- 🌱 I’m currently learning **android studio code**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=FF6BAB&width=500&lines=Desenvolvedora+Full-Stack;Gamer+Competitiva;K-pop+Enthusiast;Amante+de+Café+)](https://git.io/typing-svg)
 
-- 📫 How to reach me **juliatitoassucao2003@gmail.com**
+💻 **Dev por profissão** | 🎮 **Gamer por paixão** | 🎧 **K-pop Lover**  
+🌱 **Atualmente aprendendo:** Java e Python  
+🎯 **Objetivo:** Criar meu próprio jogo indie  
+📫 **Contato:** juliatitoassuncao2003@gmail.com| [@juliatitodev](https://twitter.com/juliatitodev)  
 
-- ⚡ Fun fact **I like kpop and kdrama, big twenty one pilots fan**
+## 🎮 Jogos Favoritos  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/fernadadasilv13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/fernadadasilv13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julia-tito-b4007a226/https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julia-tito-b4007a226/https://www.linkedin.com" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100011392502767&locale=pt_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011392502767&locale=pt_br" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/juliatitoassuncao2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juliatitoassuncao2003/" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+| Categoria | Jogos Favoritos | Horas Jogadas |
+|-----------|----------------|--------------|
+| 🏹 RPG | The Witcher 3, Skyrim | 500h+ |
+| 🔫 FPS | CS2, Valorant | 1200h+ |
+| 🌿 Indie | Stardew Valley, Hollow Knight | 300h+ |
+| 🎮 Nostalgia | Pokémon FireRed, Zelda | ∞ |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+
+## 🛠️ Tech Stack  
+
+### 💻 Linguagens  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎮 Game Dev  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### 🎵 K-pop Favs  
+![BTS](https://img.shields.io/badge/-BTS-000000?style=flat-square&logo=data:image/svg+xml;base64,...)
+![BLACKPINK](https://img.shields.io/badge/-BLACKPINK-FF5F9E?style=flat-square)
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TryMySeMfQ&show_icons=true&theme=radical)](https://github.com/TryMySeMfQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryMySeMfQ&layout=compact&theme=radical)](https://github.com/TryMySeMfQ)
+
+</div>
+
+## 🏆 Conquistas  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TryMySeMfQ&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🎵 Playlist do Dia  
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/2czJWZx96ImiM8fHLKbaHl">
+    <img src="https://spotify-playlist-cover.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=FF6BAB&bar_color_cover=true&playlist_id=2czJWZx96ImiM8fHLKbaHl" width="500">
+  </a>
+</div>
+  
+  [▶️ Ouça minha playlist favorita](https://open.spotify.com/playlist/2czJWZx96ImiM8fHLKbaHl)
+</div>
+
+## 📞 Vamos Jogar!  
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/juliatito)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/juliatito)
+[![Battle.net](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=battle.net&logoColor=white)](https://battle.net/juliatito)
+
