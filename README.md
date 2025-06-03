@@ -6,7 +6,7 @@
 
 # 👋 Olá, eu sou Julia Tito!  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=FF6BAB&width=500&lines=Desenvolvedora+Full-Stack;Gamer+Competitiva;K-pop+Enthusiast;Amante+de+Café+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=FF6BAB&width=800&lines=Desenvolvedora+Full-Stack;Gamer+Competitiva;K-pop+Enthusiast;Amante+de+Café+)](https://git.io/typing-svg)
 
 💻 **Dev por profissão** | 🎮 **Gamer por paixão** | 🎧 **K-pop Lover**  
 🌱 **Atualmente aprendendo:** Java e Python  
