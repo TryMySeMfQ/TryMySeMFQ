@@ -53,10 +53,10 @@
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TryMySeMfQ&show_icons=true&theme=radical)](https://github.com/TryMySeMfQ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryMySeMfQ&layout=compact&theme=radical)](https://github.com/TryMySeMfQ)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TryMySeMfQ&theme=tokyonight&border_radius=10&fire=FF6BAB)](https://git.io/streak-stats)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TryMySeMfQ&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-![Status](https://img.shields.io/badge/Status-Coding%20Like%20a%20Pro-FF6BAB?style=for-the-badge&logo=github)
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TryMySeMfQ&theme=react-dark&hide_border=true&area=true&custom_title=Nível%20Dev&bg_color=0d1117&color=58d6ff&point=ff6bab&line=ff6bab" width="800">
+</div>
 </div>
 
 ## 🏆 Conquistas  
