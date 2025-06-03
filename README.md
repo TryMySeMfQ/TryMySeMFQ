@@ -28,7 +28,6 @@
 | 🔫 FPS | CS2, Valorant | 1200h+ |
 | 🌿 Indie | Stardew Valley, Hollow Knight | 300h+ |
 | 🎮 Nostalgia | Pokémon FireRed, Zelda | ∞ |
-
 </div>
 
 ## 🛠️ Tech Stack  
@@ -53,6 +52,10 @@
   
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TryMySeMfQ&show_icons=true&theme=radical)](https://github.com/TryMySeMfQ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TryMySeMfQ&layout=compact&theme=radical)](https://github.com/TryMySeMfQ)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TryMySeMfQ&theme=tokyonight&border_radius=10&fire=FF6BAB)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TryMySeMfQ&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+![Status](https://img.shields.io/badge/Status-Coding%20Like%20a%20Pro-FF6BAB?style=for-the-badge&logo=github)
+
 
 </div>
 
@@ -72,4 +75,5 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/juliatito)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/juliatito)
 [![Battle.net](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=battle.net&logoColor=white)](https://battle.net/juliatito)
+
 
