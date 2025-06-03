@@ -60,16 +60,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TryMySeMfQ&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🎵 Playlist do Dia  
+### 🎵 Playlist do Dia
 
-<div align="center">
-  <a href="https://open.spotify.com/playlist/2czJWZx96ImiM8fHLKbaHl">
-    <img src="https://spotify-playlist-cover.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=FF6BAB&bar_color_cover=true&playlist_id=2czJWZx96ImiM8fHLKbaHl" width="500">
-  </a>
-</div>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2czJWZx96ImiM8fHLKbaHl)
   
-  [▶️ Ouça minha playlist favorita](https://open.spotify.com/playlist/2czJWZx96ImiM8fHLKbaHl)
-</div>
+[▶️ Ouça minha playlist favorita](https://open.spotify.com/playlist/2czJWZx96ImiM8fHLKbaHl)
+
 
 ## 📞 Vamos Jogar!  
 
