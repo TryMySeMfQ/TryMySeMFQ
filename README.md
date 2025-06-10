@@ -8,6 +8,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=FF6BAB&width=800&lines=Desenvolvedora+Full-Stack;Gamer+Competitiva;K-pop+Enthusiast;Amante+de+Café+)](https://git.io/typing-svg)
 
+## 💬 Sobre Mim
+
+Oi! Eu sou a **Julia Tito**, estudante de Sistemas de Informação pela UNEB, apaixonada por tecnologia, desafios e aprendizado constante. Desde cedo, a curiosidade pelo funcionamento dos computadores me levou ao universo da programação. Hoje, sou desenvolvedora full-stack, gamer nas horas vagas e defensora de projetos que unem tecnologia e impacto social. Acredito que desenvolver é mais do que escrever código — é criar soluções que conectam pessoas e transformam realidades ✨
+
 💻 **Dev por profissão** | 🎮 **Gamer por paixão** | 🎧 **K-pop Lover**  
 🌱 **Atualmente aprendendo:** Java e Python  
 🎯 **Objetivo:** Criar meu próprio jogo indie
